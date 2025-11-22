@@ -5,7 +5,7 @@
 ## Setup
 
 1. Create (or reuse) an Azure Speech resource and note its key + region.
-2. (Optional) create a `.env` file so both scripts can pick up credentials automatically:
+2. (Optional) create a `.env` file so the script can pick up credentials automatically:
 
    ```bash
    cat <<'EOF' > .env
