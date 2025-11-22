@@ -1,0 +1,4 @@
+azure-cognitiveservices-speech>=1.47.0
+azure-storage-blob>=12.27.1
+python-dotenv>=1.2.1
+requests>=2.32.5
